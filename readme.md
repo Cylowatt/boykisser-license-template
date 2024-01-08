@@ -1,9 +1,9 @@
 # Description
 Boykisser license template. Free to use for everyone.
 
-Original author's Telegram: **@LendavVR** and Discord: **lendav**
-
 Disclaimer: I do not own the boykisser art or any of the flags in the file.
+
+![example](https://github.com/Cylowatt/boykisser-license-template/blob/main/exported_sample.png)
 
 # Instructions
 ## Editing and Rendering
